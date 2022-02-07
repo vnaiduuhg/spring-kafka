@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Anji Naidu
+Build-Jdk: 17
+Implementation-Title: spring-boot-kafka
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: spring-boot-kafka
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-kafka
+Created-By: Maven Integration for Eclipse
+
