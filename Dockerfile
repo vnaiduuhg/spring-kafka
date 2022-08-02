@@ -6,3 +6,5 @@ ENTRYPOINT ["java","-jar","/app.jar"]
 
 
 ADD ${JAR_FILE} app.jar
+
+RUN
